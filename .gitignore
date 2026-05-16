@@ -1,0 +1,7 @@
+﻿node_modules/
+__pycache__/
+*.pyc
+backend/checkpoints/
+backend/data/
+backend/__pycache__/
+*.db

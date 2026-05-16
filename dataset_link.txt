@@ -1,0 +1,10 @@
+CMVD & Rickets Dataset Link
+
+Dataset Name:
+CMVD-Rickets Dataset
+
+Kaggle Dataset Link:
+https://www.kaggle.com/datasets/soma46/cmvd-rickets
+
+Description:
+This dataset contains chest and bone X-ray images used for training and testing deep learning models for disease prediction of CMVD and Rickets.
